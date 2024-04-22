@@ -1,7 +1,7 @@
 package com.oocode;
 
 public class HomePage {
-    public static final String HTML2 = """
+    public static final String HTML = """
             <html>
                 <body>
                 <h1>Answers questions</h1>
